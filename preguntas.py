@@ -413,4 +413,3 @@ def pregunta_12():
             elif fila[0]=='E':
                 e+=int(i[1])
     return({'A':a, 'B':b, 'C':c, 'D':d, 'E':e})
-print(pregunta_12())
